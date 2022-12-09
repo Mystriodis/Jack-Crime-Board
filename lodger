@@ -1,0 +1,13 @@
+<html>
+
+<body style="background-color:#c9b7a4;">
+
+<img src="Lodger.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="Back" title="Back" href="index.html" coords="380,929,603,1014" shape="rect">
+</map>
+
+</body>
+
+</html>
